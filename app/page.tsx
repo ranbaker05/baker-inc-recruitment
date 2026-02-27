@@ -84,6 +84,15 @@ export default function Home() {
               Professional website creation and ongoing management to elevate your employer brand.
             </p>
           </div>
+          <div className="bg-white rounded-2xl shadow-lg p-6">
+  <Users className="w-8 h-8 text-indigo-600 mb-4" />
+  <h4 className="text-xl font-semibold mb-2">
+    Call Center
+  </h4>
+  <p className="text-gray-600">
+    Professional inbound and outbound call center services designed to support sales, customer service, appointment setting, and lead generation at scale.
+  </p>
+</div>
         </div>
       </section>
 
