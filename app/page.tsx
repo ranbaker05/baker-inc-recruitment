@@ -56,7 +56,7 @@ export default function Home() {
           Our Services
         </h3>
 
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="bg-white rounded-2xl shadow-lg p-6">
             <Briefcase className="w-8 h-8 text-blue-600 mb-4" />
             <h4 className="text-xl font-semibold mb-2">Dedicated Recruiter</h4>
