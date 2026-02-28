@@ -115,7 +115,7 @@ export default function Home() {
         <div className="flex justify-center gap-4 flex-wrap">
 
           <a
-            href="https://wa.me/12022858752"
+            href="https://wa.me/12022853758"
             target="_blank"
             className="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-xl flex items-center gap-2"
           >
@@ -124,7 +124,7 @@ export default function Home() {
           </a>
 
           <a
-            href="sms:2022858752"
+            href="sms:2022853758"
             className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-xl flex items-center gap-2"
           >
             <MessageSquare className="w-5 h-5" />
@@ -144,7 +144,7 @@ export default function Home() {
       {/* FLOATING BUTTONS */}
       <div className="fixed bottom-6 right-6 flex flex-col gap-4">
         <a
-          href="https://wa.me/12022858752"
+          href="https://wa.me/12022853758"
           target="_blank"
           className="bg-green-500 hover:bg-green-600 text-white rounded-full p-4 shadow-xl"
         >
@@ -152,7 +152,7 @@ export default function Home() {
         </a>
 
         <a
-          href="sms:2022858752"
+          href="sms:2022853758"
           className="bg-blue-500 hover:bg-blue-600 text-white rounded-full p-4 shadow-xl"
         >
           <MessageSquare />
