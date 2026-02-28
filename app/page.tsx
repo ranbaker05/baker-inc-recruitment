@@ -157,6 +157,12 @@ export default function Home() {
         >
           <MessageSquare />
         </a>
+        <a
+  href="mailto:mb@smarade.com"
+  className="bg-indigo-600 hover:bg-indigo-700 text-white rounded-full p-4 shadow-xl"
+>
+  <Mail />
+</a>
       </div>
     </div>
   );
